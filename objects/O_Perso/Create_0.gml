@@ -6,4 +6,4 @@
 /// @DnDArgument : "arg" "self"
 /// @DnDArgument : "arg_1" "S_Perso"
 /// @DnDSaveInfo : "script" "Scr_CreateMiniMapObjectSprite"
-script_execute(Scr_CreateMiniMapObjectSprite, self, S_Perso);
+script_execute(Scr_CreateMiniMapObjectSprite, self, S_PersoFace);

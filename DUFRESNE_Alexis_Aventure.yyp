@@ -48,6 +48,8 @@
     {"id":{"name":"O_RoomSwap1","path":"objects/O_RoomSwap1/O_RoomSwap1.yy",},},
     {"id":{"name":"O_RoomSwap2","path":"objects/O_RoomSwap2/O_RoomSwap2.yy",},},
     {"id":{"name":"O_Tunnel","path":"objects/O_Tunnel/O_Tunnel.yy",},},
+    {"id":{"name":"Chateau","path":"rooms/Chateau/Chateau.yy",},},
+    {"id":{"name":"Foret","path":"rooms/Foret/Foret.yy",},},
     {"id":{"name":"Plaine","path":"rooms/Plaine/Plaine.yy",},},
     {"id":{"name":"Spawn","path":"rooms/Spawn/Spawn.yy",},},
     {"id":{"name":"TransitionPlaine","path":"rooms/TransitionPlaine/TransitionPlaine.yy",},},
@@ -75,6 +77,8 @@
     {"roomId":{"name":"Spawn","path":"rooms/Spawn/Spawn.yy",},},
     {"roomId":{"name":"TransitionPlaine","path":"rooms/TransitionPlaine/TransitionPlaine.yy",},},
     {"roomId":{"name":"Plaine","path":"rooms/Plaine/Plaine.yy",},},
+    {"roomId":{"name":"Foret","path":"rooms/Foret/Foret.yy",},},
+    {"roomId":{"name":"Chateau","path":"rooms/Chateau/Chateau.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

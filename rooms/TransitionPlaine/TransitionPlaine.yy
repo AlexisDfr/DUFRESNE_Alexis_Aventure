@@ -34,9 +34,9 @@
         {"$GMRInstance":"v1","%Name":"inst_6C146A9F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6C146A9F","objectId":{"name":"O_Guide","path":"objects/O_Guide/O_Guide.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.5,"scaleY":2.0,"x":352.0,"y":0.0,},
       ],"layers":[],"name":"Instances_2","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"Tiles_1","depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_1","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":12,"SerialiseWidth":22,"TileCompressedData":[
-          -4,32,-13,36,-9,32,-13,36,-9,32,-4,36,4,15,36,36,15,-5,36,-9,32,-13,36,-9,32,-13,36,-9,32,-13,36,-9,
-          32,-13,36,-9,32,-13,36,-9,32,-13,36,-9,32,-5,36,3,15,36,15,-5,36,-9,32,-10,36,3,15,36,36,-9,32,-2,36,
-          -6,15,-5,36,-5,32,
+          -5,60,-11,36,-11,60,-11,36,-11,60,-3,36,4,15,36,36,15,-4,36,-11,60,-11,36,-11,60,-11,36,-11,60,-11,36,
+          -11,60,-11,36,-11,60,-11,36,-11,60,-11,36,-12,60,-3,36,3,15,36,15,-4,36,-11,60,-9,36,2,15,36,-11,60,
+          1,36,-6,15,-4,36,-6,60,
         ],"TileDataFormat":1,},"tilesetId":{"name":"T_Environnement","path":"tilesets/T_Environnement/T_Environnement.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":600,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

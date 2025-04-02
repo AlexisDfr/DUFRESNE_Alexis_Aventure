@@ -34,6 +34,7 @@
   },
   "name":"DUFRESNE_Alexis_Aventure",
   "resources":[
+    {"id":{"name":"O_Ascenseur","path":"objects/O_Ascenseur/O_Ascenseur.yy",},},
     {"id":{"name":"O_BarrierD","path":"objects/O_BarrierD/O_BarrierD.yy",},},
     {"id":{"name":"O_BarrierG","path":"objects/O_BarrierG/O_BarrierG.yy",},},
     {"id":{"name":"O_Collision","path":"objects/O_Collision/O_Collision.yy",},},
@@ -56,6 +57,7 @@
     {"id":{"name":"Sc_ReduceLife","path":"scripts/Sc_ReduceLife/Sc_ReduceLife.yy",},},
     {"id":{"name":"Scr_CreateMiniMapObject","path":"scripts/Scr_CreateMiniMapObject/Scr_CreateMiniMapObject.yy",},},
     {"id":{"name":"Scr_CreateMiniMapObjectSprite","path":"scripts/Scr_CreateMiniMapObjectSprite/Scr_CreateMiniMapObjectSprite.yy",},},
+    {"id":{"name":"S_Ascenseur","path":"sprites/S_Ascenseur/S_Ascenseur.yy",},},
     {"id":{"name":"S_BarrierD","path":"sprites/S_BarrierD/S_BarrierD.yy",},},
     {"id":{"name":"S_BarrierG","path":"sprites/S_BarrierG/S_BarrierG.yy",},},
     {"id":{"name":"S_Coeur","path":"sprites/S_Coeur/S_Coeur.yy",},},

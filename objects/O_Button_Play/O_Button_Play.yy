@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"O_BarrierD",
-  "eventList":[],
+  "%Name":"O_Button_Play",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"O_BarrierD",
+  "name":"O_Button_Play",
   "overriddenProperties":[],
   "parent":{
-    "name":"Object",
-    "path":"folders/Objects/Object.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_BarrierD",
-    "path":"sprites/S_BarrierD/S_BarrierD.yy",
+    "name":"S_ButtonPlay",
+    "path":"sprites/S_ButtonPlay/S_ButtonPlay.yy",
   },
   "spriteMaskId":null,
   "visible":true,

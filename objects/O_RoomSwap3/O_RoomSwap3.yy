@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"O_BarrierD",
-  "eventList":[],
+  "%Name":"O_RoomSwap3",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Perso","path":"objects/O_Perso/O_Perso.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"O_BarrierD",
+  "name":"O_RoomSwap3",
   "overriddenProperties":[],
   "parent":{
-    "name":"Object",
-    "path":"folders/Objects/Object.yy",
+    "name":"RoomSwap",
+    "path":"folders/Objects/RoomSwap.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -26,11 +28,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"S_BarrierD",
-    "path":"sprites/S_BarrierD/S_BarrierD.yy",
+    "name":"S_RoomSwap04",
+    "path":"sprites/S_RoomSwap04/S_RoomSwap04.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

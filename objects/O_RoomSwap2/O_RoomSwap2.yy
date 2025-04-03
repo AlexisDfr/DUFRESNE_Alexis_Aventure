@@ -8,8 +8,8 @@
   "name":"O_RoomSwap2",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"RoomSwap",
+    "path":"folders/Objects/RoomSwap.yy",
   },
   "parentObjectId":null,
   "persistent":false,

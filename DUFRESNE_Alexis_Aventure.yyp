@@ -52,7 +52,9 @@
     {"id":{"name":"O_MiniMapObjectInGame","path":"objects/O_MiniMapObjectInGame/O_MiniMapObjectInGame.yy",},},
     {"id":{"name":"O_MiniMapObjectInGameSprite","path":"objects/O_MiniMapObjectInGameSprite/O_MiniMapObjectInGameSprite.yy",},},
     {"id":{"name":"O_Perso","path":"objects/O_Perso/O_Perso.yy",},},
+    {"id":{"name":"O_PersoMenu","path":"objects/O_PersoMenu/O_PersoMenu.yy",},},
     {"id":{"name":"O_Piques","path":"objects/O_Piques/O_Piques.yy",},},
+    {"id":{"name":"O_Rocher","path":"objects/O_Rocher/O_Rocher.yy",},},
     {"id":{"name":"O_RoomSwap","path":"objects/O_RoomSwap/O_RoomSwap.yy",},},
     {"id":{"name":"O_RoomSwap1","path":"objects/O_RoomSwap1/O_RoomSwap1.yy",},},
     {"id":{"name":"O_RoomSwap2","path":"objects/O_RoomSwap2/O_RoomSwap2.yy",},},
@@ -81,6 +83,7 @@
     {"id":{"name":"S_PersoFace","path":"sprites/S_PersoFace/S_PersoFace.yy",},},
     {"id":{"name":"S_PersoGauche","path":"sprites/S_PersoGauche/S_PersoGauche.yy",},},
     {"id":{"name":"S_Piques","path":"sprites/S_Piques/S_Piques.yy",},},
+    {"id":{"name":"S_Rocher","path":"sprites/S_Rocher/S_Rocher.yy",},},
     {"id":{"name":"S_RoomSwap01","path":"sprites/S_RoomSwap01/S_RoomSwap01.yy",},},
     {"id":{"name":"S_RoomSwap02","path":"sprites/S_RoomSwap02/S_RoomSwap02.yy",},},
     {"id":{"name":"S_RoomSwap03","path":"sprites/S_RoomSwap03/S_RoomSwap03.yy",},},
@@ -92,6 +95,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"Spawn","path":"rooms/Spawn/Spawn.yy",},},
     {"roomId":{"name":"TransitionPlaine","path":"rooms/TransitionPlaine/TransitionPlaine.yy",},},
     {"roomId":{"name":"Plaine","path":"rooms/Plaine/Plaine.yy",},},
@@ -99,7 +103,6 @@
     {"roomId":{"name":"TransitionChateau","path":"rooms/TransitionChateau/TransitionChateau.yy",},},
     {"roomId":{"name":"CinematiqueChateau","path":"rooms/CinematiqueChateau/CinematiqueChateau.yy",},},
     {"roomId":{"name":"ChateauInterieur","path":"rooms/ChateauInterieur/ChateauInterieur.yy",},},
-    {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

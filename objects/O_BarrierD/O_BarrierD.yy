@@ -6,8 +6,8 @@
   "name":"O_BarrierD",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Object",
+    "path":"folders/Objects/Object.yy",
   },
   "parentObjectId":null,
   "persistent":false,

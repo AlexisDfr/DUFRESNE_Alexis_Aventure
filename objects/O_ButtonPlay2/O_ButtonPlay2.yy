@@ -1,11 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"O_Button_Play",
+  "%Name":"O_ButtonPlay2",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":11,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_Button_Play",
+  "name":"O_ButtonPlay2",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_ButtonPlay",
-    "path":"sprites/S_ButtonPlay/S_ButtonPlay.yy",
+    "name":"S_ButtonPlay2",
+    "path":"sprites/S_ButtonPlay2/S_ButtonPlay2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

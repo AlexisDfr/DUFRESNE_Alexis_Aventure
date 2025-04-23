@@ -1,27 +1,27 @@
 {
   "$GMSprite":"",
-  "%Name":"S_Jeu",
+  "%Name":"S_ButtonPlay2",
   "bboxMode":0,
-  "bbox_bottom":52,
-  "bbox_left":4,
-  "bbox_right":57,
-  "bbox_top":10,
+  "bbox_bottom":55,
+  "bbox_left":0,
+  "bbox_right":125,
+  "bbox_top":6,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"63dfd144-4ae2-4a91-95a1-ad1db7228620","name":"63dfd144-4ae2-4a91-95a1-ad1db7228620","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"182fb1b7-2c27-48ec-b567-5f2d963c1a78","name":"182fb1b7-2c27-48ec-b567-5f2d963c1a78","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"caee4007-7f20-434a-9e79-fb757dbf618d","blendMode":0,"displayName":"default","isLocked":false,"name":"caee4007-7f20-434a-9e79-fb757dbf618d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"3b4df63e-f04a-4c4f-97be-0bea3ca19ee7","blendMode":0,"displayName":"default","isLocked":false,"name":"3b4df63e-f04a-4c4f-97be-0bea3ca19ee7","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"S_Jeu",
+  "name":"S_ButtonPlay2",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"S_Jeu",
+    "%Name":"S_ButtonPlay2",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"S_Jeu",
+    "name":"S_ButtonPlay2",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"63dfd144-4ae2-4a91-95a1-ad1db7228620","path":"sprites/S_Jeu/S_Jeu.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d0e1eeab-410a-4f00-8e54-0ceffbfaf62b","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"182fb1b7-2c27-48ec-b567-5f2d963c1a78","path":"sprites/S_ButtonPlay2/S_ButtonPlay2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"22222968-192f-46d0-b2d8-228555751ace","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":64,
+  "width":128,
 }

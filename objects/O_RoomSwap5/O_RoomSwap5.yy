@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"O_Piques",
-  "eventList":[],
+  "%Name":"O_RoomSwap5",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Perso","path":"objects/O_Perso/O_Perso.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"O_Piques",
+  "name":"O_RoomSwap5",
   "overriddenProperties":[],
   "parent":{
-    "name":"Object",
-    "path":"folders/Objects/Object.yy",
+    "name":"RoomSwap",
+    "path":"folders/Objects/RoomSwap.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -26,11 +28,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"S_Piques",
-    "path":"sprites/S_Piques/S_Piques.yy",
+    "name":"S_RoomSwap06",
+    "path":"sprites/S_RoomSwap06/S_RoomSwap06.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

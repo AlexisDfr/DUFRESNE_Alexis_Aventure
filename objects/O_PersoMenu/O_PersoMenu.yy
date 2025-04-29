@@ -6,8 +6,8 @@
   "name":"O_PersoMenu",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"UI",
+    "path":"folders/Objects/UI.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_PersoFace",
-    "path":"sprites/S_PersoFace/S_PersoFace.yy",
+    "name":"S_PersoFace_1",
+    "path":"sprites/S_PersoFace_1/S_PersoFace_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

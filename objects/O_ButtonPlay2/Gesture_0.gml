@@ -4,3 +4,8 @@
 /// @DnDArgument : "room" "Spawn"
 /// @DnDSaveInfo : "room" "Spawn"
 room_goto(Spawn);
+
+/// @DnDAction : YoYo Games.Audio.Stop_All_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 1A08E187
+audio_stop_all();

@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"O_PersoMenu",
+  "%Name":"O_EnemiPlaine",
   "eventList":[],
   "managed":true,
-  "name":"O_PersoMenu",
+  "name":"O_EnemiPlaine",
   "overriddenProperties":[],
   "parent":{
-    "name":"UI",
-    "path":"folders/Objects/UI.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_PersoFace",
-    "path":"sprites/S_PersoFace/S_PersoFace.yy",
+    "name":"S_BossPlaine",
+    "path":"sprites/S_BossPlaine/S_BossPlaine.yy",
   },
   "spriteMaskId":null,
   "visible":true,

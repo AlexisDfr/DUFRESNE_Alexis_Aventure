@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"So_Menu",
+  "%Name":"So_Foret",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":117.09823,
-  "name":"So_Menu",
+  "duration":54.413063,
+  "name":"So_Foret",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"So_Menu.mp3",
+  "soundFile":"So_Foret.mp3",
   "type":0,
-  "volume":0.2,
+  "volume":0.4,
 }

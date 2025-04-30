@@ -20,6 +20,6 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"So_Menu.mp3",
-  "type":0,
-  "volume":0.9,
+  "type":1,
+  "volume":0.25,
 }

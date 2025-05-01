@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"O_Collision",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Perso","path":"objects/O_Perso/O_Perso.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"O_BossForet",
+  "eventList":[],
   "managed":true,
-  "name":"O_Collision",
+  "name":"O_BossForet",
   "overriddenProperties":[],
   "parent":{
-    "name":"Invisible",
-    "path":"folders/Objects/Invisible.yy",
+    "name":"Enemies",
+    "path":"folders/Objects/Enemies.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,11 +26,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"S_Collision",
-    "path":"sprites/S_Collision/S_Collision.yy",
+    "name":"S_BossForet",
+    "path":"sprites/S_BossForet/S_BossForet.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

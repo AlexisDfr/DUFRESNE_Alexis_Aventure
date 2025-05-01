@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"O_EnemiPlaine",
+  "%Name":"O_BossPlaine",
   "eventList":[],
   "managed":true,
-  "name":"O_EnemiPlaine",
+  "name":"O_BossPlaine",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Enemies",
+    "path":"folders/Objects/Enemies.yy",
   },
   "parentObjectId":null,
   "persistent":false,

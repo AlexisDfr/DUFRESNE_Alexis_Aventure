@@ -9,8 +9,8 @@
   "name":"O_TextBox",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Invisible",
+    "path":"folders/Objects/Invisible.yy",
   },
   "parentObjectId":null,
   "persistent":false,

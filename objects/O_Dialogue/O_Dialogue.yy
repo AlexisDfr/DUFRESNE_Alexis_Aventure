@@ -9,8 +9,8 @@
   "name":"O_Dialogue",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Invisible",
+    "path":"folders/Objects/Invisible.yy",
   },
   "parentObjectId":{
     "name":"O_TextBox",

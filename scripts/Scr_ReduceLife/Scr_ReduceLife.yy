@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"Sc_ReduceLife",
+  "%Name":"Scr_ReduceLife",
   "isCompatibility":false,
   "isDnD":true,
-  "name":"Sc_ReduceLife",
+  "name":"Scr_ReduceLife",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",

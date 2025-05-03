@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"O_BossForet",
+  "%Name":"O_BossFinal",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"O_Perso","path":"objects/O_Perso/O_Perso.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"O_BossForet",
+  "name":"O_BossFinal",
   "overriddenProperties":[],
   "parent":{
     "name":"Enemies",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"S_BossForet",
-    "path":"sprites/S_BossForet/S_BossForet.yy",
+    "name":"S_BossFinal",
+    "path":"sprites/S_BossFinal/S_BossFinal.yy",
   },
   "spriteMaskId":null,
   "visible":true,

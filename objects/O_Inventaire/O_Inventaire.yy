@@ -1,9 +1,7 @@
 {
   "$GMObject":"",
   "%Name":"O_Inventaire",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"O_Inventaire",
   "overriddenProperties":[],

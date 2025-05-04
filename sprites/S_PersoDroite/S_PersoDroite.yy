@@ -3,7 +3,7 @@
   "%Name":"S_PersoDroite",
   "bboxMode":0,
   "bbox_bottom":57,
-  "bbox_left":3,
+  "bbox_left":8,
   "bbox_right":60,
   "bbox_top":5,
   "collisionKind":1,
